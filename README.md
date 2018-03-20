@@ -13,8 +13,6 @@ This is a complete browser-based card matching game.
 
 
 ## How to Run: 
-
+1. Copy all files associated (css, js, img, and index.html) to a directory on your machine.
 2. Open `index.html` file to view the project in your browser.
 
-
-Click [this link](https://au8444.github.io/project/)
