@@ -15,3 +15,6 @@ This is a complete browser-based card matching game.
 ## How to Run: 
 
 2. Open `index.html` file to view the project in your browser.
+
+
+Click [this link](https://au8444.github.io/project/)
